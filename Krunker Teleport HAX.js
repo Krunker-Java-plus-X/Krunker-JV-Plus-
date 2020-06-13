@@ -1,5 +1,5 @@
 // ==UserScript==
-// @name         Krunker Teleport (By Krunker Zares)
+// @name         Krunker Teleport
 // @namespace    Krunker 𝓧
 // @version      2020
 // @description  krunker teleport new
