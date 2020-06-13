@@ -2,7 +2,7 @@
 // @name         Krunker Teleport (By Krunker Zares)
 // @namespace    Krunker 𝓧
 // @version      2020
-// @description  krunker teleport wew
+// @description  krunker teleport new
 // @author       Krunker Java 𝓧
 // @icon         https://lh3.googleusercontent.com/hB-Gtd4Kr9JN2oJUh_bfFkw9bhetJeUNVCtSa4vk-bBNf2GxDAnJKKRJwae8W9y5jQCH=s113
 // @match        *://krunker.io/*
